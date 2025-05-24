@@ -1,6 +1,5 @@
 Before Running this program make a sql database.
 You can follow below steps to make one.
-
 1. Create a database with a name.
 
 2. Then  create below table you can modify or add new columns as per your need.
